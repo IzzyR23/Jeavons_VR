@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"V:/Jeavons_VR/JJ/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"V:/Jeavons_VR/JJ/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
