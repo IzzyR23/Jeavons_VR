@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Maps/VRTemplateMap_sharedassets/Grass_LayerInfo.uasset",
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Maps/VRTemplateMap_sharedassets/Path_LayerInfo.uasset",
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Maps/VRTemplateMap_sharedassets/Gravel_LayerInfo.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Surfaces/Wild_Grass_xbreagf/T_Wild_Grass_xbreagf_1K_N.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Surfaces/Wild_Grass_xbreagf/T_Wild_Grass_xbreagf_1K_D.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Surfaces/Wild_Grass_xbreagf/MI_Wild_Grass_xbreagf_1K.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Surfaces/Wild_Grass_xbreagf/T_WildGrass_xbreagf_1K_ORDp.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Ground.uasset",
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"V:/Jeavons_VR/JJ2/Content/VRTemplate/Materials/M_GridRotation.uasset",
+				"V:/Jeavons_VR/JJ2/Content/Props/bench.uasset",
+				"V:/Jeavons_VR/JJ2/Content/Props/bin.uasset",
+				"V:/Jeavons_VR/JJ2/Content/Props/icecream_pot.uasset",
+				"V:/Jeavons_VR/JJ2/Content/Props/lamp_post.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Old_Road_pbjgY0/T_OldRoad_pbjgY0_1K_ORDp.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Old_Road_pbjgY0/T_Old_Road_pbjgY0_1K_D.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Old_Road_pbjgY0/T_Old_Road_pbjgY0_1K_N.uasset",
+				"V:/Jeavons_VR/JJ2/Content/MegaScans/Old_Road_pbjgY0/MI_Old_Road_pbjgY0_1K.uasset"
+			]
+		}
+	]
+}
