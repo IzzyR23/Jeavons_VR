@@ -1,0 +1,16 @@
+Stats thread started at 0.942993
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-48BF1FE94F52C307D1E02CBFC0A25B4D
+         Session CrashGUID >====================================================
+Loading Android ini files took 0.07 seconds
+Loading HoloLens ini files took 0.09 seconds
+Loading IOS ini files took 0.09 seconds
+Loading Linux ini files took 0.11 seconds
+Loading Mac ini files took 0.06 seconds
+Loading TVOS ini files took 0.08 seconds
+Loading LinuxArm64 ini files took 0.10 seconds
+Loading Unix ini files took 0.07 seconds
+Loading VulkanPC ini files took 0.06 seconds
+Loading Windows ini files took 0.08 seconds
+Mounting Engine plugin Bridge
