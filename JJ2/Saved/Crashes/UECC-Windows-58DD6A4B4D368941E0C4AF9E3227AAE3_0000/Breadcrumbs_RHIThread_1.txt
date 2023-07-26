@@ -1,0 +1,6 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 CompositionBeforeBasePass
+	02 DeferredDecals BeforeBasePass
+	03 Decals (Visible 5, Total: 12)
