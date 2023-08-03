@@ -1,6 +1,3 @@
-2023/08/01-13:34:36.597 a10 Reusing MANIFEST V:/Jeavons_VR/JJ2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/08/01-13:34:36.599 a10 Recovering log #4
-2023/08/01-13:34:36.625 a10 Reusing old log V:/Jeavons_VR/JJ2/Saved/webcache_4430\Local Storage\leveldb/000004.log 
-2023/08/01-13:38:30.901 a10 Level-0 table #8: started
-2023/08/01-13:38:30.937 a10 Level-0 table #8: 12628 bytes OK
-2023/08/01-13:38:30.983 a10 Delete type=0 #4
+2023/08/03-12:47:57.427 5810 Reusing MANIFEST V:/Jeavons_VR/JJ2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/08/03-12:47:57.437 5810 Recovering log #7
+2023/08/03-12:47:57.450 5810 Reusing old log V:/Jeavons_VR/JJ2/Saved/webcache_4430\Local Storage\leveldb/000007.log 
