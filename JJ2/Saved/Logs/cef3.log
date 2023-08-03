@@ -1,1 +1,58 @@
-[0803/124957.042:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0803/161722.227:WARNING:angle_platform_impl.cc(48)] Debug.cpp:180 (insertMessage): GL error: HIGH: Internal D3D11 error: HRESULT: 0x8007000E: Error allocating Texture2D
+[0803/161722.228:ERROR:wrapped_sk_image.cc(124)] MakeFromBackendTexture() failed.
+[0803/161722.228:ERROR:shared_image_representation.cc(141)] Unable to initialize SkSurface
+[0803/161722.229:ERROR:raster_decoder.cc(3035)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glBeginRasterCHROMIUM: failed to create surface
+[0803/161722.229:ERROR:raster_decoder.cc(3096)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glRasterCHROMIUM: RasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.229:ERROR:raster_decoder.cc(3196)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glEndRasterCHROMIUM: EndRasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.230:ERROR:wrapped_sk_image.cc(124)] MakeFromBackendTexture() failed.
+[0803/161722.230:ERROR:shared_image_representation.cc(141)] Unable to initialize SkSurface
+[0803/161722.230:ERROR:raster_decoder.cc(3035)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glBeginRasterCHROMIUM: failed to create surface
+[0803/161722.230:ERROR:raster_decoder.cc(3096)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glRasterCHROMIUM: RasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.230:ERROR:raster_decoder.cc(3196)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glEndRasterCHROMIUM: EndRasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.230:ERROR:wrapped_sk_image.cc(124)] MakeFromBackendTexture() failed.
+[0803/161722.230:ERROR:shared_image_representation.cc(141)] Unable to initialize SkSurface
+[0803/161722.230:ERROR:raster_decoder.cc(3035)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glBeginRasterCHROMIUM: failed to create surface
+[0803/161722.230:ERROR:raster_decoder.cc(3096)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glRasterCHROMIUM: RasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.230:ERROR:raster_decoder.cc(3196)] [.RenderWorker-000000796621C600]GL ERROR :GL_INVALID_OPERATION : glEndRasterCHROMIUM: EndRasterCHROMIUM without BeginRasterCHROMIUM
+[0803/161722.230:ERROR:shared_context_state.cc(806)] SharedContextState lost due to GL_OUT_OF_MEMORY
+[0803/161722.230:ERROR:gpu_service_impl.cc(1187)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0803/161722.281:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0803/161723.088:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 388 ms
+[0803/161723.126:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.127:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.128:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.161:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.180:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.225:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.226:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.257:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.259:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.261:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.264:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.266:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.268:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.270:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.273:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.276:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.280:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.285:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.291:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.351:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.356:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.360:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.366:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.372:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.515:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0803/161723.517:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.518:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.521:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.522:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.523:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.524:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.525:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.528:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.531:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.535:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.537:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.541:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0803/161723.545:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
