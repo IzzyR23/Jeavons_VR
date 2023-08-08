@@ -6,7 +6,31 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Blueprints/FlashActor.uasset",
-				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/VRTemplate/Maps/Park.umap"
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/VRTemplate/Maps/Park.umap",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/icecream_pot.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/newfenceend.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Materials/M_CNAOR.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Materials/MI_fence3.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Materials/MI_fence2.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Materials/MI_picnicbench.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/picnic_bench.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/brown.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/newfence_3.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/newfence_2.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Props/newfence.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/VRTemplate/Maps/Park_BuiltData.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence1_BaseColor.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence1_Normal.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence2_Normal.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence2_BaseColor.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence2_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence3_BaseColor.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence3_Normal.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/newfence_fence3_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/picnic_bench_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/picnic_bench_DefaultMaterial_BaseColor.uasset",
+				"C:/Users/isabe/Documents/GitHub/Jeavons_VR/JJ2/Content/Textures/Fence/picnic_bench_DefaultMaterial_Normal.uasset"
 			]
 		}
 	]
