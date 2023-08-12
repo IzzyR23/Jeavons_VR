@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\isabe\\documents\\github\\jeavons_vr\\jj2\\intermediate\\source\\jj2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\isabe\\documents\\github\\jeavons_vr\\jj2\\intermediate\\build\\win64\\jj2\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\isabe\\documents\\github\\jeavons_vr\\jj2\\intermediate\\build\\win64\\unrealgame\\development\\jj2\\definitions.jj2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
